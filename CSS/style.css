@@ -2,6 +2,6 @@ h1{
     color: blue;
 }
 
-p{
-    color: #ff0000 ;
+span.specific{
+    color:#ff0000;
 }
